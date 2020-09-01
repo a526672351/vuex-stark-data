@@ -1,0 +1,23 @@
+{
+  "name": "vuex-stark-data",
+  "version": "1.0.0",
+  "description": "Used to manage data sharing between micro-applications",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/a526672351/vuex-stark-data.git"
+  },
+  "author": "HQC",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/a526672351/vuex-stark-data/issues"
+  },
+  "homepage": "https://github.com/a526672351/vuex-stark-data#readme",
+  "dependencies": {
+    "@ice/stark-data": "^0.1.2",
+    "lodash": "^4.17.20"
+  }
+}
